@@ -8,10 +8,18 @@ p {
 	font-size: 18px;
 }
 
+.intro-text {
+	font-size: 20px;
+}
+
 .title {
 	color: #292F36;
 	font-family: 'Reenie Beanie', cursive;
+}
 
+.intro {
+	width: 400px;
+	margin: 0 auto;
 }
 
 .box {
@@ -34,7 +42,7 @@ a:hover .over {
 }
 
 .over {
-	padding-top: 40px;
+	padding-top: 30px;
 	padding-right: 20px;
 	padding-left: 20px;
 	display: none;
@@ -48,6 +56,8 @@ a:hover .over {
   	width: 75%;
   	height: 70%;
 }
+
+
 
 
 
