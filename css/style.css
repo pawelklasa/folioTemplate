@@ -29,7 +29,6 @@ h1 {
 	margin-top: 0px;
 }
 
-
 .intro-text {
 	font-size: 20px;
 }
@@ -88,26 +87,26 @@ a:hover .over {
 	background-color: #efeff0;
 }
 
-
-
-
 /* WORK PAGE TEMPLATE */
 .work-title {
 	margin-top: 10px;
 }
 
 .content-container {
-	width: 60%;
+	width: 800px;
 	margin: 0 auto;
 	margin-top: 40px;
 }
 
 .description {
 	margin-top: 20px;
+	padding-left: 15px;
+	border-left: 4px solid;
+
 }
+
+
 /* END OF WORK PAGE TEMPLATE */
-
-
 
 /* ANIMATION */
 h1.fadeInDown {
