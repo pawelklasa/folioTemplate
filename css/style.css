@@ -126,7 +126,6 @@ p.fadeInDown {
 
 @media screen and (max-width: 699px) and (min-width: 320px) {
 	.content-container {
-		background-color: #ddd;
 		width: 100%;
 		margin: 0 auto;
 		margin-top: 40px;
