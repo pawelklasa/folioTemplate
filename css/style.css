@@ -159,4 +159,8 @@ p.fadeInDown {
 		padding-right: 10px;
 	}
 
+	a:hover .over {
+    	display: none;
+	}
+
 }
