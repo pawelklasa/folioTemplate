@@ -46,9 +46,7 @@ h1 {
 }
 
 .box {
-	border-color: #292F36;
 	height: 100%;
-	background-color: #4ECDC4;
     padding: 0px;
     position: relative;
 }
@@ -129,15 +127,36 @@ p.fadeInDown {
 
 @media screen and (max-width: 699px) and (min-width: 320px) {
 	.content-container {
-	background-color: #ddd;
-	width: 100%;
-	margin: 0 auto;
-	margin-top: 40px;
-}
+		background-color: #ddd;
+		width: 100%;
+		margin: 0 auto;
+		margin-top: 40px;
+	}
 
 	.description {
 		padding-left: 20px;
 		padding-right: 20px;
+	}
+
+	.navigation {
+		padding-left: 10px;
+		padding-right: 10px;
+		width: 100%;
+		background-color: #efeff0;
+		height: 40px;
+	}
+
+	.work, .about, .contact, .blog, .fa-user-secret, .fa-envelope-o, .fa-behance {
+		margin-right: 10px;
+	}
+
+	.intro {
+		width: 300px;
+	}
+
+	.footer {
+		padding-left: 10px;
+		padding-right: 10px;
 	}
 
 }
